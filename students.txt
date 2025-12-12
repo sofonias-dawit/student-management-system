@@ -1,0 +1,5 @@
+Nahom,Cherinet,22,Male,OOP,09537829522,Wolayita Sodo
+Sofonias,Dawit,22,Male,Advanced Programming,0923498981,Arbaminch
+Samuel,Tesfaye,23,Male,Computer Networks,0934567890,Bahir Dar
+Mekdes,Abebe,21,Female,Database Systems,0912345678,Addis Ababa
+Mekdyyes,Abbbebe,21,Female,Database Systems,09123458678,Addis Ababa
