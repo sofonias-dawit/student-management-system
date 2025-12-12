@@ -1,0 +1,7 @@
+Kalkidan,Wubshet,20,Female,Mobile App,0962376276,Shashemene
+Mekdes,Abebe,18,Female,Database Systems,0912345678,Addis Ababa
+Mekdyyes,Abbbebe,21,Female,Database Systems,09123458678,Addis Ababa
+Nahom,Cherinet,22,Male,OOP,0953782952,Wolayita Sodo
+Samuel,Tesfaye,23,Male,Computer Networks,0934567890,Bahir Dar
+Sisay,Tamrat,21,Male,PM,0924342342,Hosana
+Sofonias,Dawit,22,Male,Advanced Programming,092349000,Arbaminch
